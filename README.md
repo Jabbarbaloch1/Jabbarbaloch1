@@ -1,4 +1,4 @@
-<!-- ===================== ANIMATED HEADER ===================== -->
+Markdown<!-- ===================== ANIMATED HEADER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:162238,100:0D1117&height=200&section=header&text=Jabbar%20Baloch&fontSize=52&fontColor=00F2FE&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner"/>
 </p>
@@ -26,3 +26,18 @@ Role: Cybersecurity Researcher & CS Student
 Focus: Web Application Security & Pentesting
 OS: Kali Linux / Debian
 Motto: "Learning • Building • Breaking • Securing"
+🔐 Web App Pentesting: Actively researching vulnerability analysis & exploitation.🐞 Bug Bounty Hunting: Focused on broken access controls (IDOR, AuthN/AuthZ logic flaw research).🛡️ DevSecOps & Tooling: Developing security plugins, automation scripts, and vulnerability scanners.🤖 AI Security: Exploring LLM security risks and building security-focused AI assistants.🎯 Current Technical FocusPlaintext  ┌─────────────────────────────────────────────────────────┐
+  │              Web Application Security                   │
+  └───────────────────────────┬─────────────────────────────┘
+                              │
+       ┌──────────────────────┼──────────────────────┐
+       ▼                      ▼                      ▼
+┌──────────────┐      ┌──────────────┐      ┌────────────────┐
+│ Authentication│      │ Authorization│      │ IDOR & Logic   │
+└──────────────┘      └──────────────┘      └────────────────┘
+       │                      │                      │
+       ▼                      ▼                      ▼
+┌──────────────┐      ┌──────────────┐      ┌────────────────┐
+│ JWT Flaws    │      │ API Security │      │ Session Mgmt   │
+└──────────────┘      └──────────────┘      └────────────────┘
+🛠️ Security & Development Arsenal🛡️ Cybersecurity & Pentesting Tools💻 Development & Environment🚀 Featured ProjectsProjectDescriptionStack / Category🛡️ WP-ShieldAI-Powered WordPress Vulnerability Detection Plugin with automated security recommendations and hardening.WordPress PHP Security AI🤖 McCone ChatbotIntelligent real-estate conversational AI assistant with lead collection pipelines.Node.js JavaScript AI🐞 Bug Bounty ResearchHands-on research labs targeting Web Vulnerabilities, IDOR, AuthN/AuthZ bypasses, and API endpoints.Burp Suite Pentesting Web Sec📊 GitHub Analytics🐍 Contribution Snake📫 Connect With Me
