@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Mentor404 - Security Researcher
 
-<!--
-**Jabbarbaloch1/Jabbarbaloch1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science Student** | **Cybersecurity Enthusiast** | **Bug Bounty Hunter**
 
-Here are some ideas to get you started:
+Based in Islamabad, Pakistan | Exploring WordPress security & web application vulnerabilities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Focus Areas
+- **WordPress Security** — Plugin development & vulnerability research
+- **Web Application Security** — Bug bounty hunting on Bugcrowd
+- **AI Security** — Building secure, intelligent systems
+
+## 📌 Featured Projects
+- **WP-Shield** — AI-powered WordPress security plugin
+- **McCone Chatbot** — AI chatbot for real estate
+- **Bug Bounty Research** — Active vulnerability hunting
+
+## 🛠 Tech Stack
+`PHP` `JavaScript` `React` `Node.js` `WordPress`
+
+## 📫 Get in touch
+- Email: codewithjabbar@gmail.com
