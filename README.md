@@ -1,7 +1,7 @@
 <!-- ===================== ANIMATED HEADER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=180&section=header&text=Abdul%20Jabbar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=180&section=header&text=Jabbar%20Baloch&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </p>
 
 <!-- ===================== TYPING ANIMATION ===================== -->
@@ -20,7 +20,7 @@
 
 ## 👋 About Me
 
-I'm **Abdul Jabbar**, a Computer Science student focused on **Cybersecurity and Web Application Security**.
+I'm ** Jabbar Baloch **, a Computer Science student focused on **Cybersecurity and Web Application Security**.
 
 🔐 Learning and practicing web security
 🐞 Exploring Bug Bounty and vulnerability research
